@@ -6,7 +6,7 @@ class NumberGuessNumber {
         try {
 
 
-            System.out.println("\uD83C\uDFB0\uD83C\uDFB0\uD83C\uDFB0\uD83C\uDFB0  WELCOME TO NUMBER GUESS GAME  \uD83C\uDFB0\uD83C\uDFB0\uD83C\uDFB0\uD83C\uDFB0");
+            System.out.println("  WELCOME TO NUMBER GUESS GAME  ");
 
             Scanner sh = new Scanner(System.in);
             Random ran = new Random();
